@@ -1,0 +1,18 @@
+{
+  "name": "Java Student Workspace",
+  "image": "mcr.microsoft.com/devcontainers/java:1-21-bookworm",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.tabSize": 4,
+        "editor.wordWrap": "on",
+        "files.autoSave": "onWindowChange"
+      },
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "ms-vsliveshare.vsliveshare",
+        "formulahendry.code-runner"
+      ]
+    }
+  }
+}

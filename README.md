@@ -1,0 +1,60 @@
+# Sova Coding Beginner Java Curriculum
+
+## Overview
+This curriculum is designed for absolute beginners in Java programming, gradually introducing concepts across 6 lessons.  
+It includes **practice problems**, **examples**, and **homework** to reinforce learning.
+
+The lessons cover:  
+1. Java file structure, printing, comments, variables, and data types
+2. Casting, math operators, Scanner input, and `for` loops
+3. Comparison operators, `if/else`, modulo, and logical operators
+4. Random numbers and arrays
+5. Searching arrays, counting, summing, and finding the largest/smallest item
+6. Methods, local/static variables, and `while` loops
+
+---
+
+## How to Use
+- **Teacher-led instruction is required.**  
+- The teacher will **explain the concepts** using the sample code provided in each lesson.  
+- After instruction, students complete **problem sets** for practice.  
+- The problems **do not** contain answers: students are expected to attempt solutions themselves.  
+- Teachers may give hints but encourage independent problem-solving.  
+
+### Using Codespaces
+1. Open the repository in **GitHub Codespaces** by clicking the green **Code** button on the repo page and selecting **Codespaces → New codespace**.  
+2. When prompted, select **2-core machine** for better performance.  
+3. This will launch a ready-to-use online development environment in your browser, with Java pre-installed.  
+4. Students can code directly in Codespaces without needing to install anything locally.  
+
+#### Running Java Files
+- To run a file, open the terminal and use `javac path/to/FileName.java` and then `java -cp path/to FileName`  
+- Example: `javac lesson2/classwork/ForLoop.java` then `java -cp lesson2/classwork ForLoop`  
+- You can also use the **Run Code** button from the Code Runner extension.  
+
+#### Saving Your Work in Codespaces
+1. When you make changes, they are saved automatically in the Codespaces environment, but **not yet in GitHub**.  
+2. In the left sidebar, click the **Source Control** icon (or press `Ctrl+Shift+G` / `Cmd+Shift+G`).  
+3. Write a short description of what you changed in the **message box** (e.g., "Completed Lesson 2 Homework").  
+4. Click the **✓ Commit** button.  
+5. Click **Sync Changes** (🔄) to upload your work to GitHub so your teacher can see it.  
+
+#### Shutting Down Codespaces
+- Always shut down your Codespace after use to save resources:  
+  - Go to the **Codespaces** tab on GitHub (under your profile).  
+  - Find the running Codespace.  
+  - Click the **⋯** menu and select **Stop Codespace**.  
+
+### Sharing with Teachers via Live Share
+- Inside Codespaces, open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).  
+- Search for **Live Share: Start Collaboration Session**.  
+- Copy the generated **Live Share link** and send it to your teacher so they can join your coding session in real-time.
+
+---
+
+## Structure
+- Each lesson has:  
+  - **Sample code**
+  - **Practice problems**
+  - **Homework problems**
+- Each lesson includes practice problems and homework problems.
