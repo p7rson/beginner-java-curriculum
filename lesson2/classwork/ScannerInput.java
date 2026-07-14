@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class ScannerInput {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        System.out.print("What is your name? ");
+        String name = scanner.nextLine();
+
+        System.out.println("Hello " + name + "!");
+
+        System.out.print("What is your favorite animal? ");
+        String animal = scanner.nextLine();
+
+        System.out.println("I also like " + animal + ".");
+    }
+}

@@ -6,6 +6,7 @@ public class Practice {
         // Create a variable for your age.
         // Calculate and print how many decades old you are, rounded down.
 
+        age = 
 
         // Problem 2
         // Create a variable for a number.
