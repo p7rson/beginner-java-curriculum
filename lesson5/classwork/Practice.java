@@ -3,6 +3,8 @@ public class Practice {
         // Problem 1
         // Count how many times "Alex" appears in the array.
 
+        int AlexAppears = 0;
+        
 
         // Problem 2
         // Search for "elephant" in the array and print if it's found.
